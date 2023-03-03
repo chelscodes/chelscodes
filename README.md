@@ -1,4 +1,5 @@
 ![1517473009868](https://user-images.githubusercontent.com/98292550/222833750-28228eba-f7c7-4a5a-9159-8817bd76f377.jpeg)
+========================
 Hey there 👋 My name is Chelsea
 ========================
 
