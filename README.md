@@ -3,14 +3,10 @@
 Hey there 👋 My name is Chelsea
 ========================
 
-Full-Stack Web Developer
+Full-Stack Software Engineer
 ------------------------
 
-I'm energized by people, new technologies, and solving problems. I recently completed a full-stack web development apprenticeship at Launch Academy, and now, I'm actively looking for a junior role at a values-oriented company. 
-
-I once imagined that I would be a lifelong nonprofit professional. As I gained experience in various nonprofit roles, I found myself gravitating toward behind-the-scenes work (i.e. administration, event planning, and accounting). I took some time to explore that further and realized my favorite part of work was discovering and learning new technologies, implementing those into my workflows, and teaching my colleagues about new tools. 
-
-As I was considering my long-term career goals, I started to explore roles in the tech industry. I previously dabbled in coding and enjoyed it, so I revisited that interest and ultimately decided to take the leap to learn software development. I loved my experience at Launch Academy, learning full-stack web development, and I can't wait to see what's next! 
+I'm energized by people, new technologies, and solving problems. I recently completed a full-stack web development apprenticeship at Launch Academy, and now, I'm beginning my career as a Software Engineer at Invite Education. 
 
 Outside of studying and coding, I like to spend my time on the beaches near Boston, learning French, playing board & video games, and trying out new vegetarian recipes.
 
