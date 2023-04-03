@@ -11,10 +11,9 @@ I'm energized by people, new technologies, and solving problems. I recently comp
 Outside of studying and coding, I like to spend my time on the beaches near Boston, learning French, playing board & video games, and trying out new vegetarian recipes.
 
 * 🌍  I'm based in Boston, MA
-* ✉️  You can contact me at [chelsea.beth11@gmail.com](mailto:chelsea.beth11@gmail.com)
 * 🚀  I'm currently working on [irlQuests](http://irl-quests.herokuapp.com/)
-* ⚡ Fun fact: I'm originally from the mid-west
 * 💬 Ask me about: the genre of solarpunk 🌱🛰️
+* ✉️  You can contact me at [chelsea.beth11@gmail.com](mailto:chelsea.beth11@gmail.com)
 
 ### Skills
 
@@ -36,9 +35,3 @@ Outside of studying and coding, I like to spend my time on the beaches near Bost
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/chelscodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chelsea-elizabeth-smith/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chelscodes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chelscodes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
